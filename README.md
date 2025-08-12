@@ -1,5 +1,6 @@
 # 💫 About Me:
-im passionate young man interested in web design Both in front-end and back-end.<br>im looking to improve and learn new thing each day since how much you learn there is<br>always something new👍
+I’m a passionate and driven web developer specializing in both front-end and back-end development.
+I embrace challenges, adapt quickly to new technologies, and constantly push myself to master the latest tools and frameworks. For me, learning never stops—and I use that mindset to build creative, efficient, and high-quality web solutions👍🧑‍💻
 
 
 ## 🌐 Socials:
